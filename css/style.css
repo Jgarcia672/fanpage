@@ -43,3 +43,22 @@ a {
     margin-bottom: 10px;
     
 }
+
+.title{
+    font-family: 'Kumar One Outline', cursive;
+    font-weight: bold;
+    font-size: 25px ;
+}
+
+.navbar{
+    font-family: 'Kumar One Outline', cursive;
+    font-weight: bold;
+}
+
+.gallery{
+    display: flex;
+}
+
+.aboutMain{
+    display: flex;
+}
